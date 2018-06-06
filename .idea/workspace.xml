@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffae2f07-a2a2-418d-8f49-2c9018bcbaac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraCargaFrontalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/Lavadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/Lavadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/formacion/factorymethod/TestLavadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/formacion/factorymethod/TestLavadora.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestLavadora.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestLavadora.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/formacion/factorymethod/TestLavadora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="340">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -30,8 +28,8 @@
       <file leaf-file-name="LavadoraCargaFrontalFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraCargaFrontalFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="102">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
               <folding>
                 <element signature="e#162#163#0" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
@@ -40,20 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LavadoraCargaFrontal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraCargaFrontal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LavadoraFactory.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LavadoraFactory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="85">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -61,8 +50,8 @@
       <file leaf-file-name="Lavadora.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/Lavadora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="85">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -83,9 +72,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraCargaFrontalFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/formacion/factorymethod/TestLavadora.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/Lavadora.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/formacion/factorymethod/TestLavadora.java" />
       </list>
     </option>
   </component>
@@ -308,20 +297,44 @@
       <option name="presentableId" value="Default" />
       <updated>1528220271177</updated>
       <workItem from="1528220273027" duration="739000" />
-      <workItem from="1528303724793" duration="1790000" />
+      <workItem from="1528303724793" duration="2269000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 01m 12s.xml">
-      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestLavadora_test_carga_superior - 2018.06.06 at 19h 01m 31s.xml">
       <configuration name="TestLavadora.test_carga_superior" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 19m 22s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 19m 40s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 21m 10s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 21m 50s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 25m 49s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 25m 55s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 26m 02s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 26m 04s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestLavadora_test_carga_frontal - 2018.06.06 at 19h 26m 11s.xml">
+      <configuration name="TestLavadora.test_carga_frontal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2529000" />
+    <option name="totallyTimeSpent" value="3008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1554" height="916" extended-state="6" />
@@ -333,22 +346,22 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50133866" side_tool="true" visible="true" weight="0.32904884" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32904884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986613" visible="true" weight="0.32904884" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49933067" weight="0.32904884" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25301206" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25301206" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39974293" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4986613" weight="0.39974293" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -362,6 +375,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraCargaSuperior.java">
@@ -378,10 +396,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/Lavadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraCargaFrontalFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
           <folding>
             <element signature="e#162#163#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
@@ -389,24 +414,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/Lavadora.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/formacion/factorymethod/TestLavadora.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="340">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/formacion/factorymethod/LavadoraFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/formacion/factorymethod/TestLavadora.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="85">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -427,7 +445,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -487,7 +505,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Maven: junit:junit:4.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -20,6 +20,9 @@ public class TestLavadora {
 		LavadoraFactory lavadoraFactory = new LavadoraCargaFrontalFactory();
 		assertNotNull(lavadoraFactory);
 
+		Lavadora lavadora = lavadoraFactory.crearLavadora();
+		assertNotNull(lavadora);
+
 	}
 
 	@Test
