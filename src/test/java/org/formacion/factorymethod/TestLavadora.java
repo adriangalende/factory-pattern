@@ -31,14 +31,17 @@ public class TestLavadora {
 
 	@Test
 	public void test_carga_superior() {
-		
-		Lavadora lavadora = new LavadoraCargaSuperior();
-		lavadora.ponerMandos();
-		lavadora.ponerTambor();
-		
-		assertEquals("superior", lavadora.tipoCarga);
-		assertTrue(lavadora.tieneMandos);
-		assertTrue(lavadora.tieneTambor);
+//
+//		Lavadora lavadora = new LavadoraCargaSuperior();
+//		lavadora.ponerMandos();
+//		lavadora.ponerTambor();
+//
+//		assertEquals("superior", lavadora.tipoCarga);
+//		assertTrue(lavadora.tieneMandos);
+//		assertTrue(lavadora.tieneTambor);
+		LavadoraFactory lavadora = new LavadoraCargaSuperiorFactory();
+		assertNotNull(lavadora);
+
 	}
 
 }
