@@ -23,6 +23,10 @@ public class TestLavadora {
 		Lavadora lavadora = lavadoraFactory.crearLavadora();
 		assertNotNull(lavadora);
 
+		assertEquals("frontal", lavadora.tipoCarga);
+		assertTrue(lavadora.tieneMandos);
+		assertTrue(lavadora.tieneTambor);
+
 	}
 
 	@Test
