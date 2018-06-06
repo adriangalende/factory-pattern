@@ -9,13 +9,17 @@ public class TestLavadora {
 	@Test
 	public void test_carga_frontal() {
 		
-		Lavadora lavadora = new LavadoraCargaFrontal();
-		lavadora.ponerMandos();
-		lavadora.ponerTambor();
-		
-		assertEquals("frontal", lavadora.tipoCarga);
-		assertTrue(lavadora.tieneMandos);
-		assertTrue(lavadora.tieneTambor);
+//		Lavadora lavadora = new LavadoraCargaFrontal();
+//		lavadora.ponerMandos();
+//		lavadora.ponerTambor();
+//
+//		assertEquals("frontal", lavadora.tipoCarga);
+//		assertTrue(lavadora.tieneMandos);
+//		assertTrue(lavadora.tieneTambor);
+
+		LavadoraFactory lavadoraFactory = new LavadoraCargaFrontalFactory();
+		assertNotNull(lavadoraFactory);
+
 	}
 
 	@Test

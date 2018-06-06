@@ -2,7 +2,7 @@ package org.formacion.factorymethod;
 
 public abstract class Lavadora {
 
-	protected boolean tieneTambor;
+	protected boolean tieneTambor=false;
 	protected boolean tieneMandos;
 	protected String  tipoCarga;
 	
